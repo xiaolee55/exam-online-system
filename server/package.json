@@ -1,0 +1,19 @@
+{
+  "name": "exam-online-exam",
+  "version": "1.0.0",
+  "description": "在线考试系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "李昌校",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6",
+    "mysql": "^2.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
